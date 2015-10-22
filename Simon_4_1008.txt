@@ -1,5 +1,0 @@
-I plan to make shapes with several methods. I will use for loops to make my
-methods.
-
-I will use the for loops and other loops. 
-
